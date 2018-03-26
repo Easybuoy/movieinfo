@@ -1,13 +1,7 @@
-#movies img, #movie img{
-    width: 100%;
+/* Your custom styles */
+body{
+    background-color: #3E4551;
 }
-
-@media  (min-width: 960px){
-    #movies .col-md-3 .card-body{
-        height: 390px;
-    }
-
-    #movies .col-md-3 .img {
-        height: 240px;
-    }
-}
+.back{
+   background-color: #3E4551;
+} 

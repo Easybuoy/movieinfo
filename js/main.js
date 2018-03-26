@@ -16,9 +16,9 @@ function getMovies(searchText) {
         let output = '';
         $.each(movies, (index, movie) => {
           output += `
-            <div class="col-md-3">
+            <div class="col-md-4">
             <div class="card-body text-center">
-            <img src="${movie.Poster}">
+         <img class="card-image-top" src="${movie.Poster}">
             <h5>${movie.Title}</h5>
             <a onclick="movieSelected('${movie.imdbID}')" class="btn btn-primary" href="#">Movie Details</a>
             </div>
@@ -63,7 +63,7 @@ function getMovie() {
                 <li class="list-group-item"><strong>Writer: </strong> ${movie.Writer}</li>
                 <li class="list-group-item"><strong>Actors: </strong> ${movie.Actors}</li>
                 <li class="list-group-item"><strong>Awards: </strong> ${movie.Awards}</li>
-                <li class="list-group-item"><strong>Box Office: </strong> ${movie.BoxOffice}</li>
+                <li class="list-group-item"><strong>Box Office' </strong> ${movie.BoxOffice}</li>
 </ul>
 </div>
                
