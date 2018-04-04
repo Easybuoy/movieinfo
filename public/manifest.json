@@ -1,15 +1,15 @@
 {
-  "name": "Headline",
-  "short_name": "HL",
+  "name": "Movie Info",
+  "short_name": "MI",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "theme_color": "#FF0000",
-  "background_color": "#EEE",
+  "theme_color": "#212529",
+  "background_color": "#FFF",
   "icons": [{
-    "src": "/icon.png",
+    "src": "/icon.jpg",
     "sizes": "512x512",
-    "type": "image/png"
+    "type": "icon/jpg"
   }
 
   ],
