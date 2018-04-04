@@ -24,7 +24,7 @@ function getMovies(searchText) {
             <div class="card-body text-center mt-3">
             <h5><strong>${movie.Title}</strong></h5>
             <h6>${movie.Year}</h6>
-            <a onclick="movieSelected('${movie.imdbID}')" class="btn btn-elegant" href="#" style="border-radius: 10em;">Movie Details</a>
+            <a onclick="movieSelected('${movie.imdbID}')" class="btn btn-elegant" href="#" alt="${movie.Title}" style="border-radius: 10em;">Movie Details</a>
             </div>
             </div>        
           `;
