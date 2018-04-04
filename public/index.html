@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Movie Info</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="favicon.ICO" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark special-color-dark">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="index.html">Movie Info</a>
+        </div>
+    </div>
+</nav>
+
+
+<div class="container back">
+    <div class="jumbotron back example z-depth-3">
+        <h3 class="text-center text-white"> Search For Any Movie</h3>
+        <form id="searchForm">
+            <input type="text" class="form-control" id="searchText" placeholder="Search Movies...">
+        </form>
+    </div>
+</div>
+
+<div class="container">
+    <section>
+    <div id="movies" class="row text-center"></div>
+    </section>
+</div>
+<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="js/popper.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/mdb.min.js"></script>
+<script src="js/axios.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
