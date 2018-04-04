@@ -1,13 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79d20846-39e9-4db5-9d2b-3cb7ad4cfee1" name="Default" comment="">
+    <list default="true" id="f2298baf-6ce3-4c16-9e0a-52cc76678a09" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/License.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/css/mdb.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/css/mdb.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/font/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/lightbox/default-skin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/lightbox/default-skin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/lightbox/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/overlays/09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/svg/arrow_left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/img/svg/arrow_right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/js/jquery-3.2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/js/mdb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/js/mdb.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/js/popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/_custom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_helpers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_masks.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/_waves.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/bootstrap/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/core/bootstrap/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_animations-basic.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_animations-extended.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_cards.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_carousels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_footers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_input-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_msc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_navbars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/free/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MDB-Free/MDB Free/scss/mdb.scss" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/mdb.css" afterPath="$PROJECT_DIR$/public/css/mdb.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/mdb.min.css" afterPath="$PROJECT_DIR$/public/css/mdb.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/axios.min.js" afterPath="$PROJECT_DIR$/public/js/axios.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterPath="$PROJECT_DIR$/public/js/jquery-3.3.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/public/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/movie.html" afterPath="$PROJECT_DIR$/public/movie.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movie.html" afterPath="$PROJECT_DIR$/movie.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,50 +102,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="248">
+              <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="-48">
+              <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
               <folding>
-                <marker date="1521994768030" expanded="true" signature="1388:2413" ph="..." />
-                <marker date="1521994768030" expanded="true" signature="1426:1514" ph="..." />
-                <marker date="1521994768030" expanded="true" signature="2344:2383" ph="..." />
-                <marker date="1521994768030" expanded="true" signature="2344:2390" ph="..." />
-                <marker date="1521994768030" expanded="true" signature="2344:2413" ph="..." />
-                <marker date="1521994768030" expanded="true" signature="2444:2751" ph="..." />
-                <marker date="1521994768030" expanded="true" signature="2480:2744" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="548:1015" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="548:1033" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="606:716" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="669:696" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="769:1014" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="957:977" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="1601:2819" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="1639:1727" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="1766:2798" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="1846:2791" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="2850:3219" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="2886:3212" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="3068:3088" ph="..." />
+                <marker date="1522875039433" expanded="true" signature="3166:3186" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="movie.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movie.html">
+        <entry file="file://$PROJECT_DIR$/public/movie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="595">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,9 +183,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -86,10 +193,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/movie.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/public/movie.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
       </list>
     </option>
   </component>
@@ -106,15 +216,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="780" />
+    <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -132,13 +247,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="movie_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="movie_info" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="movie_info" type="b2602c69:ProjectViewProjectNode" />
-              <item name="movie_info" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,11 +267,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\movie\public" />
+      <recent name="C:\xampp\htdocs\movie\public\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\movie\public" />
+      <recent name="C:\xampp\htdocs\movie\public\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,37 +299,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79d20846-39e9-4db5-9d2b-3cb7ad4cfee1" name="Default" comment="" />
-      <created>1521938253591</created>
+      <changelist id="f2298baf-6ce3-4c16-9e0a-52cc76678a09" name="Default" comment="" />
+      <created>1522871596742</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1521938253591</updated>
-      <workItem from="1521938255855" duration="6181000" />
-      <workItem from="1521981845712" duration="4403000" />
+      <updated>1522871596742</updated>
+      <workItem from="1522871599018" duration="3808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10584000" />
+    <option name="totallyTimeSpent" value="3808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -220,83 +343,106 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/public/js/popper.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/public/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie.html">
+    <entry file="file://$PROJECT_DIR$/public/js/mdb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-          <folding>
-            <marker date="1521994768030" expanded="true" signature="1388:2413" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="1426:1514" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2344:2383" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2344:2390" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2344:2413" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2444:2751" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2480:2744" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
           <folding>
-            <marker date="1521994768030" expanded="true" signature="1388:2413" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="1426:1514" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2344:2383" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2344:2390" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2344:2413" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2444:2751" ph="..." />
-            <marker date="1521994768030" expanded="true" signature="2480:2744" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="548:1015" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="548:1033" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="606:716" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="669:696" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="769:1014" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="957:977" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="1601:2819" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="1639:1727" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="1766:2798" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="1846:2791" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="2850:3219" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="2886:3212" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="3068:3088" ph="..." />
+            <marker date="1522875039433" expanded="true" signature="3166:3186" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/movie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,23 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "Movie Info Site",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Easybuoy/movieinfo.git"
+  },
+  "author": "Ekunola Ezekiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Easybuoy/movieinfo/issues"
+  },
+  "homepage": "https://gitlab.com/Easybuoy/movieinfo#README",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
