@@ -1,0 +1,171 @@
+#movies img, #movie img{
+    width: 100%;
+    
+}
+img{
+    height: 240px;
+}
+
+@media  (min-width: 960px){
+    #movies .col-md-3 .card-body{
+        height: 390px;
+    }
+
+    #movies .col-md- .img {
+        height: 240px;
+    }
+}
+
+.flowdownx{
+	background-image: url('../images/captain.jpg');
+	background-size: cover;
+	height: 550px;
+    background-attachment: fixed;
+    background-color:black;
+    border-radius: 3px;
+}
+input[type="submit"]{
+	border-radius:19px;
+}
+input[type="text"]
+{
+	border-radius:5px;
+}
+
+.mid{
+    background-color: white;
+    position: relative;
+    bottom: 60px;
+    border-radius: 7px;
+    max-width: 900px !important;
+
+
+
+
+}
+.card-img-top {
+    min-height: 300px;
+    max-height: 300px;
+}
+.original{
+    border-radius: 25px;
+}
+
+input[type=date],
+ input[type=datetime-local],
+  input[type=email],
+   input[type=number], 
+   input[type=password], 
+   input[type=search-md],
+   input[type=search], 
+   input[type=tel], 
+   input[type=text],
+    input[type=time], 
+    input[type=url], 
+    textarea.md-textarea {
+        background-color: white !important;
+        height: 1.6rem !important;
+        border-radius: 50px;
+    }
+
+
+
+.form-control{
+    padding: .5rem!important;
+}
+.backs{
+    background-image: url('../images/red.jpg');
+    background-size: cover;
+    height: 400px;
+    background-attachment: fixed;
+    background-color:black;
+}
+.backss{
+     background-image: url('../images/after.jpg');
+    background-size: cover;
+    height: 400px;
+    background-attachment: fixed;
+    background-color:black;
+}
+.searchF{
+    max-width:500px;
+    position: relative;
+    left:26%;
+    top:100px;
+}
+
+input[type=date],
+input[type=datetime-local],
+input[type=email],
+input[type=number],
+input[type=password],
+input[type=search-md],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=time],
+input[type=url],
+textarea.md-textarea:focus {
+   border-bottom: black !important;
+    border-color: black !important;
+    border-bottom-color: black !important;
+}
+.outlines{
+    background-color: transparent !important;
+    border:2px solid #2E2E2E;
+    border-radius: 7px;
+
+
+}
+.outlines:hover{
+   background-color: #2E2E2E !important;
+   transition: 0.9s;
+   /*border-color: # !important;*/
+}
+.outlines:focus{
+    background-color: red;
+
+}
+body{
+  background-image: url('../images/sh.png');
+  background-size: cover;
+    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+.bgcol{
+background-color: white;
+border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.flow{
+    background-image: url('../images/sh.png');
+    background-size: cover;
+    background-position: center center;
+    height: 300px;
+    
+    
+}
+@media(max-width: 988px){
+ .searchF{
+    max-width:500px;
+    position: relative;
+    left:13%;
+    top:100px;
+}
+}
+.up{
+  height: 300px;
+  background-color: white;
+  background-image: url('../images/captain.jpg');
+
+}
+.down{
+  height: 300px;
+  background-color: white;
+}
+.climb{
+  position: relative;
+  bottom: 100px;
+}
